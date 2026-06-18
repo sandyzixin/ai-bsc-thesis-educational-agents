@@ -1,4 +1,4 @@
-# AI BSc Thesis LLM-driven retrieval-augmented educational conversational agents
+# AI BSc Thesis LLM-driven Retrieval-Augmented Educational Conversational Agents
 
 This repository contains code and analysis materials for my BSc Artificial Intelligence thesis on LLM-driven retrieval-augmented educational conversational agents. This project compares two different interaction formats: a text-based chatbot vs. a speech-enabled embodied virtual human. 
 
@@ -8,14 +8,13 @@ The project investigates whether the interaction format of an educational conver
 
 The repository includes the following:
 
-- the chatbot agent
-- the shared RAG/backend system
-- the data analysis notebook
-- documentation of the system structure
+* the chatbot agent
+* the shared RAG implementation
+* the data analysis notebook
 
 ## Private Components
 
-The full Unity project and some other (code) files are not included in this repository. These components are excluded because they may code or details that cannot be shared publicly.
+The full Unity project and some other code files are not included in this repository. These components are excluded either for security reasons, such as files containing API keys or private configuration settings, or because they were provided by the supervisor and are not my own code to share publicly.
 
 ## Data Analysis Notebook
 
