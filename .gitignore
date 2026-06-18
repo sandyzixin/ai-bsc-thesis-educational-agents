@@ -1,0 +1,8 @@
+analysis/data/
+analysis/figures/
+.venv/
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
