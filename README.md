@@ -13,8 +13,6 @@ The repository includes the following:
 - the data analysis notebook
 - documentation of the system structure
 
-Some components are intentionally not included because they contain private code, participant data, or files that cannot be shared publicly.
-
 ## Private Components
 
 The full Unity project and some other (code) files are not included in this repository. These components are excluded because they may code or details that cannot be shared publicly.
