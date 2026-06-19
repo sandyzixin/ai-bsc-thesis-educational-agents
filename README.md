@@ -1,6 +1,6 @@
 # AI BSc Thesis LLM-driven Retrieval-Augmented Educational Conversational Agents
 
-This repository contains code and analysis materials for my BSc Artificial Intelligence thesis on LLM-driven retrieval-augmented educational conversational agents. This project compares two different interaction formats: a text-based chatbot vs. a speech-enabled embodied virtual human. 
+This repository contains code and analysis materials for my BSc Artificial Intelligence thesis on LLM-driven retrieval-augmented educational conversational agents. This project compares two different interaction formats: a text-based chatbot and a speech-enabled embodied virtual human. 
 
 ## Project Overview
 
@@ -8,13 +8,14 @@ The project investigates whether the interaction format of an educational conver
 
 The repository includes the following:
 
-* the chatbot agent
-* the shared RAG implementation
+* the chatbot code
+* the Japan politics context document used by the shared RAG system
 * the data analysis notebook
+* documenntation of files and components that are not included
 
 ## Private Components
 
-The full Unity project and some other code files are not included in this repository. These components are excluded either for security reasons, such as files containing API keys or private configuration settings, or because they were provided by the supervisor and are not my own code to share publicly.
+The full Unity project, the shared RAG implementation and some other code files are not included in this repository. These components are excluded either for security reasons, such as files containing API keys or private configuration settings, or because they were provided by the supervisor and are not my own code to share publicly.
 
 ## Data Analysis Notebook
 
@@ -32,8 +33,10 @@ The required Python packages are listed in: ``requirements.txt``
 
 To install the required packages, run:
 
-``pip install -r requirements.txt``
+```bash
+pip install -r requirements.txt
+```
 
 ## Notes on Reproducibility
 
-This repository is intended to support my thesis by documenting the code structure and data analysis. However, full reproduction of the study results is not possible from this repository alone because the original participant data and some private implementation components are not publicly available.
+This repository is intended to support my thesis by documenting the code structure and data analysis. However, full reproduction of the study results is not possible from this repository alone due to privacy and ethical reasons.
